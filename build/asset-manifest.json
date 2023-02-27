@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vancevince/weather-app-v1.git/static/css/main.6a4e16d0.css",
+    "main.js": "/vancevince/weather-app-v1.git/static/js/main.5295733a.js",
+    "static/js/787.d9312eb8.chunk.js": "/vancevince/weather-app-v1.git/static/js/787.d9312eb8.chunk.js",
+    "index.html": "/vancevince/weather-app-v1.git/index.html",
+    "main.6a4e16d0.css.map": "/vancevince/weather-app-v1.git/static/css/main.6a4e16d0.css.map",
+    "main.5295733a.js.map": "/vancevince/weather-app-v1.git/static/js/main.5295733a.js.map",
+    "787.d9312eb8.chunk.js.map": "/vancevince/weather-app-v1.git/static/js/787.d9312eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a4e16d0.css",
+    "static/js/main.5295733a.js"
+  ]
+}
